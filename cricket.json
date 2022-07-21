@@ -1,0 +1,24 @@
+{
+    "cricket": {
+        "match1": [
+            {
+            "name1":"Sri Lanka",
+            "name2":"South Africa",
+            "day":2,
+            "runs":108,
+            "type":"ICC Cricket World Cup 2022",
+            "date":"28th July 2022"
+        }
+        ],
+        "match2": [
+            {
+            "name1":"Sri Lanka",
+            "name2":"South Africa",
+            "day":3,
+            "runs":108,
+            "type":"ICC Cricket World Cup 2022",
+            "date":"28th July 2022"
+            }
+        ]
+    }
+}
